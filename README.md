@@ -6,3 +6,8 @@ Bilgilerde herhangi bir hata olduğunu düşünüyorsanız benimle [Telegram Soh
 Not: Emek hırsızı siteleri bulundurmamayı düşünüyorum, eğer bulursanız bana üstte belirttiğim Telegram Sohbet grubumuzdan yazmayı unutmayın.
 
 İyi günler.
+
+# Site görünümü
+Sitemizde iki adet koyu tema bulunmaktadır, maalesef ki manuel olarak değiştirebiliyorsunuz şu anlık.
+
+[Türkiye Teması (Kırmızı-Beyaz)](https://deadlybro.github.io) ve [Mavi Tema (Discord gibi)](https://deadlybro.github.io/index-mavi)
